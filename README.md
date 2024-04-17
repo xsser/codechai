@@ -1,5 +1,10 @@
+## 加群
+![1_1013255570_179_98_3_834044844_00a9d69247a5c2c232ef8375639be1eb.png](1_1013255570_179_98_3_834044844_00a9d69247a5c2c232ef8375639be1eb.png)
+![1_1013255570_192_77_3_834045777_d03a712bddfd392f7e2588b535d74b75.png](1_1013255570_192_77_3_834045777_d03a712bddfd392f7e2588b535d74b75.png)
 
-# CodeChai 项目
+
+
+# CodeChai 项目!
 
 这个项目是为了更快速的阅读代码而生的。项目基于langchain实现，使用LongContent技术，而非任何RAG技术来实现LLM的问答
 
@@ -97,7 +102,6 @@ codechai --repo_path="./github_codes/langchain/"
 ![img_1.png](img_1.png)
 
 
-![img_3.png](img_3.png)
 
 
 ## 一些经验
