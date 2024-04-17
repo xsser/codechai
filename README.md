@@ -110,6 +110,11 @@ codechai --repo_path="./github_codes/langchain/"
 2. openrouter.ai  我非常建议大家使用这个网站的llm api
 3. 使用google gemini pro 的时候注意api 费用，如果你要阅读的代码量很大的话，可能问1个问题需要3美元。我最多的时候花费了$5美元来问一个问题。
 
+## 奇怪的用法
+1. 用来挖漏洞，直接问ai，有啥漏洞。当然这样的方式有点蠢，只能挖到一些很容易看到的，你可以使用`--file_extensions`参数来指定你要问的扩展名
+2. 用来阅读pdf， 也适用`--file_extensions`
+3. 用来阅读htlm文档，没错 请你wget爬官方html文档来进行问答
+
 ## 未来规划
 1. 支持api化
 2. 支持更友好的bash命令行
