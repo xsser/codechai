@@ -1,0 +1,4 @@
+langchain_openai
+langchain_anthropic
+GitPython
+langchain
