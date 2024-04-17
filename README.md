@@ -1,6 +1,6 @@
 ## 加群
-![wxgroup.png](./imgs/wxgroup.png)
-![group-qr.png](./imgs/group-qr.png)
+<img alt="wxgroup.png" src="./imgs/wxgroup.png" width="300"/>
+<img alt="group-qr.png" src="./imgs/group-qr.png" width="350"/>
 
 
 
@@ -136,4 +136,4 @@ codechai --repo_path="./github_codes/langchain/"
 
 该项目基于 [MIT 许可证](LICENSE)进行许可。
 
-<img alt="img.png" src="imgs/shoukuan.png" width="400" height="600"/>
+<img alt="img.png" src="imgs/shoukuan.png" width="400"/>
