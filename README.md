@@ -136,3 +136,4 @@ codechai --repo_path="./github_codes/langchain/"
 
 该项目基于 [MIT 许可证](LICENSE)进行许可。
 
+<img alt="img.png" src="imgs/shoukuan.png" width="400" height="600"/>
