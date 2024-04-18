@@ -114,7 +114,7 @@ codechai --repo_path="./github_codes/langchain/"
 1. 用来挖漏洞，直接问ai，有啥漏洞。当然这样的方式有点蠢，只能挖到一些很容易看到的，你可以使用`--file_extensions`参数来指定你要问的扩展名
 2. 用来阅读pdf， 也适用`--file_extensions`
 3. 用来阅读htlm文档，没错 请你wget爬官方html文档来进行问答
-
+![img_4.png](imgs/img_4.png)
 ## 未来规划
 1. 支持api化
 2. 支持更友好的bash命令行
