@@ -1,8 +1,4 @@
-## 加群
-<img alt="wxgroup.png" src="./imgs/wxgroup.png" width="300"/>
-<img alt="group-qr.png" src="./imgs/group-qr.png" width="350"/>
-
-
+<img alt="17641713451286_.pic.jpg" src="imgs/17641713451286_.pic.jpg" width="400"/>
 
 # CodeChai 项目!
 
